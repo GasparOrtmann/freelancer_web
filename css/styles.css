@@ -96,6 +96,10 @@ h1,h2,h3{
     justify-content: flex-end;
 }
 
+.margin-5{
+    margin-top: 5rem;
+}
+
 /* Navegacion principal */
 .nav-bg{
     background-color: var(--primario);
@@ -161,6 +165,7 @@ h1,h2,h3{
     scroll-snap-align: center;
     scroll-snap-stop: always;
 }
+
 /* Servicios */
 
 @media (min-width: 768px) {
@@ -246,7 +251,6 @@ h1,h2,h3{
 
 .campo textarea{
     height: 20rem;
-    width: auto;
 }
 
 .input-text{
