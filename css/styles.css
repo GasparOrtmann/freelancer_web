@@ -220,7 +220,7 @@ h1,h2,h3{
     font-size: 1.8rem;
     text-transform: uppercase;
     font-weight: bold;
-    margin-bottom: 2rem;
+    margin-bottom: auto auto 2rem auto;
     color: var(--primario);
 }
 
